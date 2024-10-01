@@ -1,0 +1,10 @@
+footer{
+    background-color:antiquewhite;
+    color: brown;
+    width: 100%;
+    font-size: 40px;
+    display:flex;
+    padding: 4px;
+    justify-content: center;
+    text-align:center;
+}
